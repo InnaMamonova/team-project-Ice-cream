@@ -1,0 +1,24 @@
+// base
+@import './variables';
+@import './normalize';
+@import './reset';
+@import './general';
+@import './mixin';
+
+//components
+@import './title';
+@import './btn';
+@import './mobile-menu';
+@import './main-modal';
+@import './btn-back-to-top';
+
+//layouts
+@import './header';
+@import './products';
+@import './about';
+@import './advantages';
+@import './reviews';
+@import './gallery';
+@import './contacts';
+@import './animation-menu';
+@import './footer';
